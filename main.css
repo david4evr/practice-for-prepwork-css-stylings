@@ -22,16 +22,16 @@ h2 {
 p {
     font-family: ;
     font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    padding: 4px;
+    margin: 4px;
+    color: #090a0a;
+    background-color: #646969;
 }
 
 .logo {
-    background-size: cover;
+    background-size: cover 1px grey;
     background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-color: https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png;
+    height: 50px;
+    width: 50px;
 }
